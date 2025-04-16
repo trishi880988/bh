@@ -6,7 +6,7 @@ app = Client(
     "terabox_stream_bot",
     api_id=27893267,  # Replace with your API ID
     api_hash="7dd7e4a227b0ee849a154b682b5f4cb1",  # Replace with your API HASH
-    bot_token="7805274671:AAHl_nrxFZdgr-AfVU_bs5Gn-2xFIPlME4w"  # Replace with your bot token
+    bot_token="7750327083:AAFa9UBrMxmXcF5Wb_QriA8jYOmIZeZSVdo"  # Replace with your bot token
 )
 
 def extract_terabox_id(url):
